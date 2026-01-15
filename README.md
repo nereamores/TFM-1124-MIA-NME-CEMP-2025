@@ -1,6 +1,7 @@
 # TFM-1124-MIA-NME-CEMP-2025
 # Predicción del riesgo de diabetes mediante Aprendizaje Automático
 **Trabajo Fin de Máster** | Máster en Aplicaciones de la IA en la Sanidad (CEMP)
+
 **Alumna:** Nerea Moreno Escamilla | **Fecha:** Enero 2026
 
 ---
