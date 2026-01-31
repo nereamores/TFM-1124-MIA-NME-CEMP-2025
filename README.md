@@ -12,7 +12,7 @@ Este repositorio contiene exclusivamente el **código fuente y el cuaderno técn
 Se incluye el flujo de trabajo completo de Data Science en un único archivo:
 1.  **Preprocesamiento:** Limpieza, imputación de nulos y gestión de *outliers*.
 2.  **Modelado:** Entrenamiento y evaluación de algoritmos (Random Forest, SVM, etc.).
-3.  **Explicabilidad:** Análisis de importancia de variables con SHAP.
+3.  **Explicabilidad:** Análisis de importancia de variables.
 
 ### ⚠️ Notas Importantes
 * **Marco Teórico:** La justificación clínica, metodología detallada y conclusiones se encuentran en la **Memoria del TFM**.
